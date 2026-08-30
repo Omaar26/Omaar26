@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Physics, and maybe coding
 - 🌱 I’m currently learning Basically nothing 
 - 💞️ I’m looking to collaborate on anything lol
-- 📫 How to reach me @meshmohandesss at X and Telegram 
+- 📫 How to reach me @meshmohandesss at X 
 - 😄 Pronouns: He/Him
   
 
