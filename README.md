@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on anything lol
 - 📫 How to reach me @meshmohandesss at X 
 - 😄 Pronouns: He/Him
-
-  [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36d042cd-1c4c-49c2-93ee-9570bea6e98c.jpeg?v=1790959977)](https://www.boot.dev/certificates/36d042cd-1c4c-49c2-93ee-9570bea6e98c)
-
   
 
 <!---
