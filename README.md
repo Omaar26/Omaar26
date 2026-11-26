@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Omaar26
-- 👀 I’m interested in Math, Physics, and maybe coding
-- 🌱 I’m currently learning Basically nothing 
-- 💞️ I’m looking to collaborate on anything lol
-- 📫 How to reach me @meshmohandesss at X 
-- 😄 Pronouns: He/Him
-  
+I've got a computer, I'm trying to understand it and tell it what to do
+
+reach me out @meshmohandesss on Twitter 
 
 <!---
 Omaar26/Omaar26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
